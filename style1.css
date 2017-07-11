@@ -1,0 +1,40 @@
+.title1{
+	color:black;
+	margin: auto;
+	text-align: center;
+}
+
+p{
+	margin-left: 400px;
+}
+img{
+	text-align: center;
+}
+
+a{
+	margin-left: 450px;
+}
+h4{
+	margin-left:400px;
+}
+.table{
+	margin-left: 400px;
+}
+.text{
+	margin-left:450px;
+}
+.center{
+	display: block;
+	margin: auto;
+
+}
+.first_title{
+	margin-left: 400px;
+}
+.student{
+	margin-bottom: 50px;
+}
+.title{
+	font-size:20px; 
+	font-weight: bold;
+}
